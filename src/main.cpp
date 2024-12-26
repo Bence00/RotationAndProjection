@@ -1,5 +1,6 @@
 #include <SDL.h>
 #include <iostream>
+#include <emscripten.h>
 
 #include "App.h"
 

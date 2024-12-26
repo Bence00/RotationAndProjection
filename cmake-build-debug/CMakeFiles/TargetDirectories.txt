@@ -1,0 +1,3 @@
+C:/Users/bnce2/Desktop/project_LinearAlgebra/Cube3D/cmake-build-debug/CMakeFiles/Cube3D.dir
+C:/Users/bnce2/Desktop/project_LinearAlgebra/Cube3D/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bnce2/Desktop/project_LinearAlgebra/Cube3D/cmake-build-debug/CMakeFiles/rebuild_cache.dir

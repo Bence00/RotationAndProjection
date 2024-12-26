@@ -1,0 +1,10 @@
+# Build directory
+cmake-build-debug/
+
+# IDE fájlok
+*.log
+*.tmp
+
+# Operációs rendszer specifikus fájlok
+Thumbs.db   # Windows
+Desktop.ini # Windows
